@@ -7,4 +7,4 @@ This is a companion to the theoretical work
 
 DOI:
 
-https://zenodo.org/badge/latestdoi/267064082
+https://doi.org/10.5281/zenodo.3856566
